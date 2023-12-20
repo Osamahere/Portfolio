@@ -31,19 +31,6 @@ The project features a user-friendly interface created using Flask. The frontend
 3. Data is fetched from the dataset to provide informative responses.
 4. The Flask frontend renders the chat interface dynamically.
 
-## Project Structure:
-
-```
-project-root/
-|-- App.py
-|-- templates/
-|   |-- index.html
-|-- static/
-|   |-- style.css
-|-- dataset/
-|   |-- mobile_products.csv
-|-- README.md
-```
 
 ## Getting Started:
 
